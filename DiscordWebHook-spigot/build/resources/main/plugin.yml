@@ -1,0 +1,7 @@
+name: DiscordWebHook-spigot
+version: '1.0'
+main: me.ooo7Oneu.discordWebHookSpigot.DiscordWebHookSpigot
+api-version: '1.20'
+commands:
+  dwh:
+    reload:

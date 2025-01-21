@@ -1,0 +1,22 @@
+#
+#config.yml を変更する場合、config.ymlを保存してからサーバーを再起動してください
+#
+#discordのwebhookのURLを設定してください。
+url: null
+#
+#メッセージ内で表示するこのMinecraftサーバー名を設定してください。
+serverName: serverName
+#
+#サーバーへの参加の通知
+notification:
+  #サーバー起動
+  serverStart: true
+  #
+  #サーバー停止
+  serverStop: true
+  #
+  #プレイヤーの参加
+  playerJoin: true
+  #
+  #プレイヤーの退出
+  playerQuit: true
