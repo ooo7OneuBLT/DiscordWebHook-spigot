@@ -1,0 +1,2 @@
+# DiscordWebHook-spigot
+プラグインを入れたサーバーの起動などをDiscordの指定したWebhookで通知します。
